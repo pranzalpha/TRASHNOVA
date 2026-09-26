@@ -1,4 +1,4 @@
-# 🧪 CHEMIZZIC — Universal AI Chemistry Study Toolkit & Intelligent Learning Ecosystem
+# 🧪 CHEMIZIC — Universal AI Chemistry Study Toolkit & Intelligent Learning Ecosystem
 
 ### **Visual Chemistry Intelligence, Adaptive Practice, Mechanistic Reasoning & Interactive Lab Simulations**
 
@@ -38,7 +38,7 @@ Chemistry education suffers from deep systemic bottlenecks:
 
 ## 💡 Solution
 
-CHEMIZZIC delivers a unified platform featuring:
+CHEMIZIC delivers a unified platform featuring:
 * **Deterministic Scientific Verification**: Atom-conserved stoichiometry, charge-balanced half-reactions, and verified standard thermodynamic quantities combined with Google Gemini AI.
 * **Interactive Physics & Lab Simulators**: Real-time interactive models of electrochemical cells (Galvanic, Daniell, Lead-Acid, Li-ion, Fuel Cell, Chlor-Alkali, Molten NaCl), pH titrations, phase diagrams, and kinetics chambers.
 * **Curved-Arrow Reaction Mechanism Explainer**: Step-by-step electronic movement, reactive intermediates (carbocations, carbanions, free radicals), electrophile/nucleophile roles, and stereochemical outcomes.
@@ -93,7 +93,7 @@ Education Level (e.g. Class 12)
 
 ## 🧠 Adaptive Learning
 
-CHEMIZZIC includes a complete, data-driven learning cycle:
+CHEMIZIC includes a complete, data-driven learning cycle:
 
 * **Diagnostic Assessment**: Initial baseline testing to calculate starting concept proficiency across physical, inorganic, and organic chemistry.
 * **Concept Mastery Engine**: Bayesian-inspired mastery progression ($0.0 \to 1.0$) updated dynamically based on quiz performance, streak consistency, and question difficulty.
@@ -589,4 +589,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-### 🧪 CHEMIZZIC — *Chemistry, Visualized. Intelligence, Integrated.*
+### 🧪 CHEMIZIC — *Chemistry, Visualized. Intelligence, Integrated.*
