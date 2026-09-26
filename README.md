@@ -16,9 +16,9 @@
 
 ## 🚀 Overview
 
-**CHEMIZZIC** is an end-to-end, full-stack AI chemistry learning, practice, revision, simulation, and exam preparation platform. Traditional chemistry platforms present fragmented static tables of formulas and molecular weights. CHEMIZZIC unites **generative AI reasoning**, **deterministic scientific computing**, **interactive SVG/Canvas physical simulations**, and an **adaptive mastery learning engine** into a single cohesive ecosystem.
+**CHEMIZIC** is an end-to-end, full-stack AI chemistry learning, practice, revision, simulation, and exam preparation platform. Traditional chemistry platforms present fragmented static tables of formulas and molecular weights. CHEMIZZIC unites **generative AI reasoning**, **deterministic scientific computing**, **interactive SVG/Canvas physical simulations**, and an **adaptive mastery learning engine** into a single cohesive ecosystem.
 
-Whether a high-school student tackling Class 11 stoichiometry or a postgraduate researcher investigating organometallic pathways and lithium-ion battery kinetics, CHEMIZZIC adapts to the learner's academic depth and guides them along a continuous learning loop:
+Whether a high-school student tackling Class 11 stoichiometry or a postgraduate researcher investigating organometallic pathways and lithium-ion battery kinetics, CHEMIZIC adapts to the learner's academic depth and guides them along a continuous learning loop:
 
 ```
 ASSESS ➔ IDENTIFY WEAKNESS ➔ EXPLAIN ➔ PRACTICE ➔ SIMULATE ➔ CALCULATE ➔ REASSESS ➔ MASTER
